@@ -19,5 +19,4 @@ job('ejemplo3-job-DSL') {
     		shell("bash jobscript.sh")
     	}
 
-    	}
 }
